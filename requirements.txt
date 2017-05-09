@@ -1,2 +1,4 @@
 Flask == 0.12.1
 pymongo==3.3.0
+numpy==1.12.1
+Django == 1.11.1
